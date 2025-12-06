@@ -6,7 +6,7 @@
 - 📷 Love capturing aesthetic moments with my camera
 
 ## Connect With Me 📫
-<a href="mailto:youremail@example.com">
+<a href="adeliaamanda23@students.usu.ac.id">
   <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat" alt="Email">
 </a>
 
